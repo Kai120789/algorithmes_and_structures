@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tqKmnCxUJ+T3AxnEft+MNdx4mZQj+8iMWQysOh/tNNAMvpJbMRlTur00xiBexxPcGyc9Sn2lgwrdGQWr4WJZHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1\\Desktop\\Даня\\ЛР_Колесников_Д_22-КБ-ПР1\\2 Сем\\АСД\\ЛР12\\ЛР12.2\\ЛР12.2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+F:\ЛР_Колесников_Д_22-КБ-ПР1\АСД\ЛР7\ЛР7.2\bin\Debug\ЛР7.2.exe.config
+F:\ЛР_Колесников_Д_22-КБ-ПР1\АСД\ЛР7\ЛР7.2\bin\Debug\ЛР7.2.exe
+F:\ЛР_Колесников_Д_22-КБ-ПР1\АСД\ЛР7\ЛР7.2\bin\Debug\ЛР7.2.pdb
+F:\ЛР_Колесников_Д_22-КБ-ПР1\АСД\ЛР7\ЛР7.2\obj\Debug\ЛР7.2.csproj.AssemblyReference.cache
+F:\ЛР_Колесников_Д_22-КБ-ПР1\АСД\ЛР7\ЛР7.2\obj\Debug\ЛР7.2.csproj.SuggestedBindingRedirects.cache
+F:\ЛР_Колесников_Д_22-КБ-ПР1\АСД\ЛР7\ЛР7.2\obj\Debug\ЛР7.2.csproj.CoreCompileInputs.cache
+F:\ЛР_Колесников_Д_22-КБ-ПР1\АСД\ЛР7\ЛР7.2\obj\Debug\ЛР7.2.exe
+F:\ЛР_Колесников_Д_22-КБ-ПР1\АСД\ЛР7\ЛР7.2\obj\Debug\ЛР7.2.pdb
+C:\Users\1\Desktop\Даня\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР7\ЛР7.2\bin\Debug\ЛР7.2.exe.config
+C:\Users\1\Desktop\Даня\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР7\ЛР7.2\bin\Debug\ЛР7.2.exe
+C:\Users\1\Desktop\Даня\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР7\ЛР7.2\bin\Debug\ЛР7.2.pdb
+C:\Users\1\Desktop\Даня\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР7\ЛР7.2\obj\Debug\ЛР7.2.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Даня\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР7\ЛР7.2\obj\Debug\ЛР7.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Desktop\Даня\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР7\ЛР7.2\obj\Debug\ЛР7.2.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Даня\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР7\ЛР7.2\obj\Debug\ЛР7.2.exe
+C:\Users\1\Desktop\Даня\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР7\ЛР7.2\obj\Debug\ЛР7.2.pdb

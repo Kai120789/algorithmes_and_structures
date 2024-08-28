@@ -1,0 +1,14 @@
+E:\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР12\ЛР12.1\bin\Debug\netcoreapp3.1\ЛР12.1.exe
+E:\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР12\ЛР12.1\bin\Debug\netcoreapp3.1\ЛР12.1.deps.json
+E:\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР12\ЛР12.1\bin\Debug\netcoreapp3.1\ЛР12.1.runtimeconfig.json
+E:\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР12\ЛР12.1\bin\Debug\netcoreapp3.1\ЛР12.1.runtimeconfig.dev.json
+E:\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР12\ЛР12.1\bin\Debug\netcoreapp3.1\ЛР12.1.dll
+E:\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР12\ЛР12.1\bin\Debug\netcoreapp3.1\ЛР12.1.pdb
+E:\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР12\ЛР12.1\obj\Debug\netcoreapp3.1\ЛР12.1.csproj.AssemblyReference.cache
+E:\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР12\ЛР12.1\obj\Debug\netcoreapp3.1\ЛР12.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР12\ЛР12.1\obj\Debug\netcoreapp3.1\ЛР12.1.AssemblyInfoInputs.cache
+E:\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР12\ЛР12.1\obj\Debug\netcoreapp3.1\ЛР12.1.AssemblyInfo.cs
+E:\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР12\ЛР12.1\obj\Debug\netcoreapp3.1\ЛР12.1.csproj.CoreCompileInputs.cache
+E:\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР12\ЛР12.1\obj\Debug\netcoreapp3.1\ЛР12.1.dll
+E:\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР12\ЛР12.1\obj\Debug\netcoreapp3.1\ЛР12.1.pdb
+E:\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР12\ЛР12.1\obj\Debug\netcoreapp3.1\ЛР12.1.genruntimeconfig.cache

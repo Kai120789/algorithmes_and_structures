@@ -1,0 +1,16 @@
+C:\Users\1\Desktop\Даня\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР8\ЛР8.1\bin\Debug\ЛР8.1.exe.config
+C:\Users\1\Desktop\Даня\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР8\ЛР8.1\bin\Debug\ЛР8.1.exe
+C:\Users\1\Desktop\Даня\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР8\ЛР8.1\bin\Debug\ЛР8.1.pdb
+C:\Users\1\Desktop\Даня\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР8\ЛР8.1\obj\Debug\ЛР8.1.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Даня\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР8\ЛР8.1\obj\Debug\ЛР8.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Desktop\Даня\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР8\ЛР8.1\obj\Debug\ЛР8.1.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Даня\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР8\ЛР8.1\obj\Debug\ЛР8.1.exe
+C:\Users\1\Desktop\Даня\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР8\ЛР8.1\obj\Debug\ЛР8.1.pdb
+F:\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР8\ЛР8.1\bin\Debug\ЛР8.1.exe.config
+F:\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР8\ЛР8.1\bin\Debug\ЛР8.1.exe
+F:\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР8\ЛР8.1\bin\Debug\ЛР8.1.pdb
+F:\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР8\ЛР8.1\obj\Debug\ЛР8.1.csproj.AssemblyReference.cache
+F:\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР8\ЛР8.1\obj\Debug\ЛР8.1.csproj.SuggestedBindingRedirects.cache
+F:\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР8\ЛР8.1\obj\Debug\ЛР8.1.csproj.CoreCompileInputs.cache
+F:\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР8\ЛР8.1\obj\Debug\ЛР8.1.exe
+F:\ЛР_Колесников_Д_22-КБ-ПР1\2 Сем\АСД\ЛР8\ЛР8.1\obj\Debug\ЛР8.1.pdb

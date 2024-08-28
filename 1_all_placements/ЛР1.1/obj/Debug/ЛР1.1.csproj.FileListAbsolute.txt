@@ -1,0 +1,10 @@
+C:/Users/1/Desktop/Даня/ЛР_Колесников_Д_22-КБ-ПР1/2 Сем/АСД/ЛР1/ЛР1.1/bin/Debug/ЛР1.1.exe.config
+C:/Users/1/Desktop/Даня/ЛР_Колесников_Д_22-КБ-ПР1/2 Сем/АСД/ЛР1/ЛР1.1/bin/Debug/ЛР1.1.exe
+C:/Users/1/Desktop/Даня/ЛР_Колесников_Д_22-КБ-ПР1/2 Сем/АСД/ЛР1/ЛР1.1/bin/Debug/ЛР1.1.pdb
+C:/Users/1/Desktop/Даня/ЛР_Колесников_Д_22-КБ-ПР1/2 Сем/АСД/ЛР1/ЛР1.1/obj/Debug/ЛР1.1.csproj.AssemblyReference.cache
+C:/Users/1/Desktop/Даня/ЛР_Колесников_Д_22-КБ-ПР1/2 Сем/АСД/ЛР1/ЛР1.1/obj/Debug/ЛР1.1.csproj.SuggestedBindingRedirects.cache
+C:/Users/1/Desktop/Даня/ЛР_Колесников_Д_22-КБ-ПР1/2 Сем/АСД/ЛР1/ЛР1.1/obj/Debug/ЛР1.1.csproj.CoreCompileInputs.cache
+C:/Users/1/Desktop/Даня/ЛР_Колесников_Д_22-КБ-ПР1/2 Сем/АСД/ЛР1/ЛР1.1/obj/Debug/ЛР1.1.exe
+C:/Users/1/Desktop/Даня/ЛР_Колесников_Д_22-КБ-ПР1/2 Сем/АСД/ЛР1/ЛР1.1/obj/Debug/ЛР1.1.pdb
+/Users/admin/Desktop/нужное/универ крас/АСД/ЛР1/ЛР1.1/obj/Debug/ЛР1.1.exe
+/Users/admin/Desktop/нужное/универ крас/АСД/ЛР1/ЛР1.1/obj/Debug/ЛР1.1.pdb
